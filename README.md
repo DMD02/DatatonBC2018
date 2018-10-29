@@ -14,7 +14,7 @@ El código subido al repositorio para el Datatón 2018, se encuentra dividido en
 5. **Transactions+Categorization:** se encuentra toda el proceso usado para definir la clasificación de los datos.
 6.  **Classify+all+data:** se encuentran los métodos de aprendizaje automático usados para clasificar las referencias por categorías. 
 7. **CustomerClustering:** se encuentran la agrupación de los clientes de acuerdo a sus gastos.
-8. **Group_expenses_prediction:** se encuentran la predicción de gastos mensuales en pago de deudas para cada grupo demográfico. 
+8. **Group_expenses_prediction:** se encuentran la predicción de gastos mensuales en pago de deudas para cada grupo demográfico.  **Group_expenses_prediction:** se encuentran una exploración de reglas de asociacion con lo datos categorizados. 
 
 
 ## Autores
