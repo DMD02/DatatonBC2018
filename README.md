@@ -4,7 +4,7 @@ Este repositorio corresponde al análisis de los datos entregados en la competen
 
 ## Estructura del código
 
-El código subido al repositorio para el Datatón 2018, se encuentra dividido en 8 partes que guardan un orden lógico. A continuación se describe cada archivo. 
+El código subido al repositorio para el Datatón 2018, se encuentra dividido en 9 partes que guardan un orden lógico. A continuación se describe cada archivo. 
 
 ### Archivos Datatón
 1. **Data_clients-cleaning:** se encuentra toda la limpieza y descripción de los datos de los clientes.
